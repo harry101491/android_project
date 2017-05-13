@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541844169432",
+    "project_id": "firebase-cloudproject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541844169432:android:02019da9adbe05e3",
+        "android_client_info": {
+          "package_name": "com.cloud.harshitpareek.cloud_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541844169432-eqstd3c6t9av2i7utlm8p3dhamt7vse3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "541844169432-dkfs8l83r4keim2j6n9po2nmvtkmcj85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloud.harshitpareek.cloud_project",
+            "certificate_hash": "3a8063d655f8265d0334c4f9be05e7caa4e737da"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPX6_HP9RlbfseYhiJ8O5vuRuMx7ZY8tM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Know Your Neighborhood</string>
+
+    <string name="enter_user_name">Enter User Name</string>
+
+    <string name="enter_pass">Enter Password </string>
+
+    <string name="signin_button">Sign In</string>
+
+    <string name="signup_button">Sign Up</string>
+
+    <string name="search_neighborhood">Enter ZipCode</string>
+
+    <string name="search_text_button">Search</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="user_email_address">harspareek@gmail.com</string>
+
+    <string name="user_name">Harshit Pareek</string>
+
+    <string name="signIn">SignIn</string>
+
+    <string name="signUp">SignUp</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="import_menu_string">Import</string>
+
+    <string name="gallery_menu_string">Gallery</string>
+
+    <string name="slideshow_menu_string">Slideshow</string>
+
+    <string name="map_label"> Maps </string>
+
+    <string name="stats"> Stats </string>
+
+    <string name="restaurant"> Food </string>
+
+    <string name="social"> Social </string>
+
+    <string name="neighborhoodRating">Neighborhood Rating</string>
+
+    <string name="lowSuggestion"> Sorry! Your Neighborhood does not have Good Rating </string>
+
+    <string name="midSuggestion"> Congratulations! Your Neighborhood is recommended </string>
+
+    <string name="highSuggestion"> Congratulations! Your Neighborhood is highly recommended  </string>
+
+    <string name="signout"> SignOut </string>
+
+    <string name="KYN">Know Your Neighborhood</string>
+</resources>
